@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(93,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(235,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(262,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(263,66): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(271,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(272,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(280,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(281,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(289,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(290,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(299,57): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(300,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(405,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(406,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(410,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(411,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(413,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(414,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\Hello_Window\main.cpp(422,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Hello_Window.vcxproj -> C:\Раб стол\programmig\С++\opengl-cursach-main2\alenka\x64\Debug\Lighting.exe
